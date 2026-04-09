@@ -25,6 +25,4 @@ Designed for real-time data monitoring, visualization, and interactive user expe
 - **Build Tool:** Vite
 - **State Management:** Context API
 
----
 
-## 📁 Project Structure
